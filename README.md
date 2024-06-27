@@ -1,5 +1,5 @@
-These are the codes of algorithm "bd_LLE" and the datasets in the paper "Boundary detection algorithm inspired by locally linear embedding" by Pei-Cheng Kuo, Nan Wu. 
-(https://arxiv.org/abs/2406.18456)
+These are the codes of algorithm "bd_LLE" and the datasets in the paper "Boundary detection algorithm inspired by locally linear embedding" by Pei-Cheng Kuo, Nan Wu 
+(https://arxiv.org/abs/2406.18456).
 The authors thank Dr. Hau-Tieng Wu for valuable discussions and insightful suggestions.
 
 
