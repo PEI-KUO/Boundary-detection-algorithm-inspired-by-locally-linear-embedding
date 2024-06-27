@@ -1,4 +1,6 @@
-These are the codes of algorithm "bd_LLE" and the datasets in the paper "Boundary detection algorithm inspired by locally linear embedding" by Hau-Tieng Wu, Nan Wu, and Pei-Cheng Kuo.
+These are the codes of algorithm "bd_LLE" and the datasets in the paper "Boundary detection algorithm inspired by locally linear embedding" by Pei-Cheng Kuo, Nan Wu. 
+(https://arxiv.org/abs/2406.18456)
+The authors thank Dr. Hau-Tieng Wu for valuable discussions and insightful suggestions.
 
 
 Explanation to files
@@ -11,14 +13,14 @@ The boundary dectrion algorithm based on LLE under \epsilon-ball scheme.
 
 The boundary dectrion algorithm based on LLE under kNN scheme.
 
-3 disc.csv
+3 disc.csv / distance_to_boundary_disc.csv
 
-The dataset of points sampled on a disc used in the paper.
+The dataset of points sampled on a unit disc used in the paper and their distances to the boundary.
 
-4 gap_torus.csv
+4 gap_torus.csv / distance_to_boundary_gap_torus.csv
 
-The dataset of points sampled on a gaped torus used in the paper.
+The dataset of points sampled on a vertical-cut torus torus used in the paper and their distances to the boundary.
 
-5 tilt_torus.csv
+5 tilt_torus.csv / distance_to_boundary_tilt_torus.csv
 
-The dataset of points sampled on a tilt-cut torus used in the paper.
+The dataset of points sampled on a tilted-cut torus used in the paper and their distances to the boundary.
